@@ -10,7 +10,7 @@ excerpt: >-
 categories:
   - category: Fear
 meta:
-  canonicalLink: all-consuming-fear
+  canonicalLink: /all-consuming-fear
   title: All Consuming Fear
 ---
 There are very few people who truly understand what it is like to be consumed by fear.  I sometimes find it difficult to read others accounts or best practices because their stories quickly reveal their ignorance.  People who occasionally dabble in fear have no idea what it is like to look through the lens of fear every moment of every day.  Reading another person's account of fear is sometimes helpful, so I try not to hold their innocence against them.  I realize this is merely their interpretation of what fear is like and I try to honor their courage in sharing their story.  I caution myself against titling an article with words which lend itself to clickbait or quick self-help because I realize that those articles over-promise and rarely ever deliver on their title.

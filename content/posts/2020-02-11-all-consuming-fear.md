@@ -8,7 +8,7 @@ excerpt: >-
   by fear. People who occasionally dabble in fear have no idea what it is like
   to look through the lens of fear every moment of every day.
 categories:
-  - category: News
+  - category: Fear
 meta:
   canonicalLink: all-consuming-fear
   title: All Consuming Fear
